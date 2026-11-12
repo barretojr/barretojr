@@ -27,8 +27,6 @@
 
 Engenheiro de Software com foco no ecossistema **.NET (C# / ASP.NET Core)**, arquiteturas distribuídas e resilientes (Clean Architecture, DDD, CQRS, Outbox Pattern) e **Cibersegurança / AppSec** (Threat Modeling STRIDE, OWASP Top 10 e Pentest). 
 
-Atualmente desenvolvendo na **[@Edu-Scheduler](https://github.com/Edu-Scheduler)** e arquitetando sistemas multi-agentes autônomos.
-
 ---
 
 ### 🛠️ Core Stack
